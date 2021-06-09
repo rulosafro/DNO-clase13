@@ -10856,10 +10856,12 @@ html {
 .content-section-heading h2, .content-section-heading .h2 {
   font-size: 3rem;
   font-family: 'Work Sans', sans-serif;
+  font-weight: 500;
 }
 .content-section-heading h3, .content-section-heading .h3 {
   font-size: 1rem;
   font-family: 'Work Sans', sans-serif;
+  font-weight: 500;
   text-transform: uppercase;
 }
 
